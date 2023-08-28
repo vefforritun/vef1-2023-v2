@@ -1,5 +1,7 @@
 # Vefforritun 1, 2023: Verkefni 2, HTML #2
 
+[Kynning á verkefni](https://youtu.be/L5s9N0ap6eo).
+
 ## Markmið
 
 - Vinna með og velja HTML element.
