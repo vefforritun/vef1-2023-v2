@@ -24,4 +24,4 @@ Pantaðu borð og mættu til okkar eða pantaðu mat sem við sendum þér eða 
 ### Samþykkja og panta
 
 * Ég samþykki skilmála Veitingastaðsins [box sem hægt er að haka í]
-* Panta [panti til að senda pöntun]
+* Panta [takki til að senda pöntun]
